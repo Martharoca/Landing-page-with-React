@@ -6,7 +6,7 @@ function Card() {
 			<div class="row row-cols-1 row-cols-lg-4 g-4 px-5">
 				<div class="col">
 					<div class="card h-100">
-                    <img src="src/js/component/card1.jpg" class="card-img-top"/>
+                    <img src="src/js/img/card1.jpg" class="card-img-top"/>
 						<div class="card-body bg-">
 							<h5 class="card-title d-flex justify-content-center">Card title</h5>
 							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
